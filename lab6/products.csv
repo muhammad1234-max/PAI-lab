@@ -1,0 +1,51 @@
+ProductID,ProductName,Category,Price
+1,Wireless Mouse,Electronics,25.99
+2,USB-C Cable,Accessories,9.99
+3,Office Chair,Furniture,149.99
+4,Monitor,Electronics,199.99
+5,Desk Lamp,Home Decor,45.99
+6,Laptop Stand,Accessories,29.99
+7,Keyboard,Electronics,39.99
+8,Notepad,Stationery,5.99
+9,Water Bottle,Home & Kitchen,15.99
+10,Portable Charger,Electronics,49.99
+11,Blender,Home & Kitchen,99.99
+12,Headphones,Electronics,79.99
+13,Coffee Maker,Home & Kitchen,89.99
+14,Air Fryer,Home & Kitchen,129.99
+15,Smartphone Case,Accessories,14.99
+16,Wireless Earbuds,Electronics,89.99
+17,Wall Clock,Home Decor,29.99
+18,Backpack,Accessories,39.99
+19,Phone Stand,Accessories,19.99
+20,Desk Organizer,Furniture,34.99
+21,LED Strip Lights,Home Decor,20.99
+22,Tablet,Electronics,299.99
+23,Smartwatch,Electronics,199.99
+24,Dishwasher,Home Appliances,499.99
+25,Lawn Mower,Outdoor,349.99
+26,Patio Set,Outdoor,499.99
+27,Air Conditioner,Home Appliances,299.99
+28,Electric Kettle,Home Appliances,39.99
+29,Vacuum Cleaner,Home Appliances,149.99
+30,Portable Speaker,Electronics,59.99
+31,Game Console,Electronics,399.99
+32,Wireless Router,Electronics,89.99
+33,HDMI Cable,Accessories,15.99
+34,Wall Art,Home Decor,45.99
+35,Scented Candles,Home Decor,19.99
+36,Guitar,Musical Instruments,199.99
+37,Drone,Electronics,499.99
+38,Fitness Tracker,Electronics,99.99
+39,Yoga Mat,Fitness,29.99
+40,Digital Camera,Electronics,699.99
+41,Projector,Electronics,299.99
+42,Smart TV,Electronics,799.99
+43,Electric Toothbrush,Health & Beauty,49.99
+44,Skin Care Set,Health & Beauty,99.99
+45,Hair Dryer,Health & Beauty,39.99
+46,Makeup Set,Health & Beauty,29.99
+47,Fishing Rod,Sports,59.99
+48,Tent,Outdoor,199.99
+49,Camping Stove,Outdoor,49.99
+50,Flashlight,Outdoor,19.99
